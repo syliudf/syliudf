@@ -14,4 +14,4 @@ I am Siyu Liu, a research assistant at CUHK and Ph.D. candidate at UESTC.
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="32" height="32"/> </a>
 
 #### 📫 How to reach me
-[syliu@std.uestc.edu.cn](mailto:syliu@std.uestc.edu.cn) or [syliu@cuhk.edu.hk](mailto:syliu@cuhk.edu.hk)
+[syliu@std.uestc.edu.cn](mailto:syliu@std.uestc.edu.cn)
