@@ -1,11 +1,11 @@
 ### Hi there 👋 this is Siyu Liu
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/syliudf)
 
-I am Siyu Liu, a Ph.D. candidate at UESTC and research assistant at CUHK.
+I am Siyu Liu, a Ph.D. candidate at UESTC.
 
 #### Education
 - [2017-2021] I received my B.Eng. degree from [UESTC](www.uestc.edu.cn).
-- [2023-Now]  I'm working as a research assistant at [CUHK](www.cuhk.edu.hk).
+- [2023-2024] I worked as a research assistant at [CUHK](www.cuhk.edu.hk).
 - [2020-Now]  I'm currently a Ph.D. candidate at [UESTC](www.uestc.edu.cn).
 
 
